@@ -1,4 +1,4 @@
 # ProjectB
 
-# Hier maken we een console application enzo je weet toch
-# Nice
+# Dit is onze github repository voor project B
+#
