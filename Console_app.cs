@@ -26,7 +26,7 @@ namespace cinema_app
 
             if(answer == "1")
                 {Console.WriteLine("You picked \"1. See available movies\" \n" +
-                    "WORK IN PROGRESS - Please come back later");}
+                    "WORK IN PROGRESS - Please Come on later date");}
             else if(answer == "2")
                 {Console.WriteLine("You picked \"2. Login\" \n" +
                     "WORK IN PROGRESS - Please come back later");}
