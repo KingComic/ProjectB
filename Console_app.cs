@@ -37,6 +37,7 @@ namespace cinema_app
                 {Console.WriteLine("Your input was: " + answer + "\nInput not recognised. Please try again\n");}
             }
         Console.WriteLine("Shutting down ...");
+            //addition to the code for test purposes
         }
     }
 }
