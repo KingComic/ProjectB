@@ -6,7 +6,18 @@ namespace cinema_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var zaal1 = new CinemaHall();
+
+
+            zaal1.Addreservation();
+
+            foreach (var lis in zaal1.HallReservation) 
+            {
+                
+                Console.WriteLine(lis);
+                
+            }
+
         }
     }
 }
