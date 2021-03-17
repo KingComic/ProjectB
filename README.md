@@ -1,4 +1,4 @@
 # ProjectB
 
-# YoYo
+# GitHub Repository voor Project B
 #
