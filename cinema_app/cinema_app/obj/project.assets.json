@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\achraffaress\\.nuget\\packages\\": {}
+    "/Users/achraffaress/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\ProjectB\\cinema_app\\cinema_app\\cinema_app.csproj",
+      "projectUniqueName": "/Users/achraffaress/Documents/GitHub/ProjectB/cinema_app/cinema_app/cinema_app.csproj",
       "projectName": "cinema_app",
-      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\ProjectB\\cinema_app\\cinema_app\\cinema_app.csproj",
-      "packagesPath": "C:\\Users\\achraffaress\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\ProjectB\\cinema_app\\cinema_app\\obj\\",
+      "projectPath": "/Users/achraffaress/Documents/GitHub/ProjectB/cinema_app/cinema_app/cinema_app.csproj",
+      "packagesPath": "/Users/achraffaress/.nuget/packages/",
+      "outputPath": "/Users/achraffaress/Documents/GitHub/ProjectB/cinema_app/cinema_app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\achraffaress\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/achraffaress/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

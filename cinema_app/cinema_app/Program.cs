@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace cinema_app
 {
@@ -6,17 +7,26 @@ namespace cinema_app
     {
         static void Main(string[] args)
         {
-            var zaal1 = new CinemaHall();
+            
+            var avangers = new Movie(3, 20, "Avenger");
 
+            var movies = new List<Movie>() { avangers };
 
-            zaal1.Addreservation();
+            var zaal1 = new CinemaHall(20, 9);
 
-            foreach (var lis in zaal1.HallReservation) 
-            {
-                
-                Console.WriteLine(lis);
-                
-            }
+            zaal1.Addreservation(movies);
+
+            Console.WriteLine();
+
+            Console.WriteLine(zaal1.GetHallSeatsScreen());
+
+            Console.WriteLine();
+
+            zaal1.SetPrice();
+
+            Console.WriteLine();
+
+            zaal1.SeePrice();
 
         }
     }
