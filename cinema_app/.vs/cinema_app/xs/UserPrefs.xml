@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{9B09AFC3-7F75-477C-8008-9843649E1888}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="cinema_app/Program.cs">
     <Files>
-      <File FileName="cinema_app/CinemaHall.cs" Line="21" Column="34" />
-      <File FileName="cinema_app/Movie.cs" Line="4" Column="23" />
-      <File FileName="cinema_app/Program.cs" Line="11" Column="1" />
+      <File FileName="cinema_app/CinemaHall.cs" Line="154" Column="13" />
+      <File FileName="cinema_app/Movie.cs" Line="4" Column="1" />
+      <File FileName="cinema_app/Program.cs" Line="17" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
